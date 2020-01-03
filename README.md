@@ -5,5 +5,5 @@ Description: An airport management application for organizing flights and adding
 Uses a sorted-binary tree, queues, and stacks for efficient data use.
 A UML diagram was utilized to organize our project.
 
-*The AVL-Tree algorithm was not learned in the course and was implemented from online sources
+*The AVL-Tree algorithm was implemented from online sources
 
